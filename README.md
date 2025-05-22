@@ -21,7 +21,7 @@ I am a Technical Solutions Engineer II with experience supporting and enhancing 
 
 - Portfolio and learning projects
 - Experimentation with frameworks, tools, and languages
-- Demonstrating technical skills for hiring and professional growth
+- Demonstrating technical skills for employment and professional growth
 
 ---
 
