@@ -1,44 +1,53 @@
 # Valehead
+## Software Engineer · Backend Specialist @ Nelnet/FACTS
 
-## Technical Solutions Engineer II
-
-I am a Technical Solutions Engineer II with experience supporting and enhancing Education Management Software for private school districts. My work focuses on solving complex technical problems and providing solutions that make a real impact in the education sector.
+I'm a Software Engineer specializing in **.NET 9 microservices**, **API gateway architecture**, and **developer workflow automation** that accelerates the full SDLC. I build systems that support 12,000+ schools and 3M+ students, and I care as much about improving the processes around me as I do about the code I ship.
 
 ---
 
-### Core Skills
+### What I'm Building
+- 50+ production API endpoints across 12+ microservice and gateway projects as part of a multi-year enterprise rearchitecture into .NET 9
+- An internal Claude plugin powering 10+ automated SDLC workflows, adopted by 30+ engineers and contributing to a **33.5% increase in team output**
+- Automated PR review workflows saving an estimated **60+ engineering hours per sprint**
 
-- **Programming Languages & Frameworks:** ColdFusion, JavaScript, C#, Laravel, PHP, HTML, CSS, SQL
-- **Strengths:**  
-  - Analytical problem-solving and creative coding  
-  - Strong leadership and mentorship—I'm committed to learning the hard way so I can help others find an easier path  
-  - Excellent communicator and team collaborator  
-  - Passionate about continuous improvement—being stagnant is never an option
+---
+
+### Technical Skills
+
+**Languages & Frameworks**  
+C#, .NET 9, ASP.NET Core, TypeScript, Angular, JavaScript, SQL, PHP, ColdFusion, Python, HTML/CSS
+
+**Developer Tooling & Workflow**  
+Prompt Engineering · Workflow Design · Claude Code · MCP Tooling · GitHub Copilot · Windsurf/Cascade · Agents
+
+**Backend & Architecture**  
+Microservices · CQRS · API Gateways (BFF Pattern) · RESTful APIs · MediatR · Entity Framework Core · OpenAPI/Swagger
+
+**Tools & Platforms**  
+Git · Azure DevOps · Docker · SQL Server · Postman · Agile/Scrum
 
 ---
 
 ### GitHub Usage
-
-- Portfolio and learning projects
-- Experimentation with frameworks, tools, and languages
-- Demonstrating technical skills for employment and professional growth
+- Learning projects
+- Workflow experimentation and tooling
+- Full-stack demos in .NET 9 / Angular
+- Exploring new patterns before bringing them to production
 
 ---
 
 ### About Me
-
-- Based in New York
+- Based in New York (recently remote)
 - Cat dad x2
-- I love to solve problems—coding is my outlet for curiosity, creativity, and making life a bit easier (for me and for others!)
-- Always learning, always advancing
+- I ramp fast into unfamiliar stacks, shipping production-ready .NET endpoints in month one with zero prior .NET experience
+- I coach engineers on tooling and prompt engineering, a rising tide lifts all boats
+- Always learning, always shipping
 
 ---
 
 ### Contact
-
-- [LinkedIn](#) <!-- Add your LinkedIn URL here -->
-- [Personal Website](#) <!-- Add your portfolio or personal website URL here -->
+- [LinkedIn](https://linkedin.com/in/Nicholas-Vales)
 
 ---
 
-> Solving problems is not only my profession; it’s my passion.
+> Solving problems isn't just my profession. It's how I think.
