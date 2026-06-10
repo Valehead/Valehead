@@ -1,5 +1,5 @@
 # Valehead
-## Software Engineer · Backend Specialist @ Nelnet/FACTS
+## Software Engineer · Backend Specialist
 
 I'm a Software Engineer specializing in **.NET 9 microservices**, **API gateway architecture**, and **developer workflow automation** that accelerates the full SDLC. I build systems that support 12,000+ schools and 3M+ students, and I care as much about improving the processes around me as I do about the code I ship.
 
