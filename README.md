@@ -8,7 +8,7 @@ I'm a Software Engineer specializing in **.NET 9 microservices**, **API gateway 
 ### What I'm Building
 - 50+ production API endpoints across 12+ microservice and gateway projects as part of a multi-year enterprise rearchitecture into .NET 9
 - An internal Claude plugin powering 10+ automated SDLC workflows, adopted by 30+ engineers and contributing to a **33.5% increase in team output**
-- Automated PR review workflows saving an estimated **60+ engineering hours per sprint**
+- Automated PR review workflows saving a department an estimated **60+ engineering hours per sprint**
 
 ---
 
